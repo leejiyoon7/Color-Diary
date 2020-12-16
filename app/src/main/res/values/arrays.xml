@@ -1,0 +1,24 @@
+<resources>
+    <string-array name="goodemotionlist">
+        <item>기쁨</item>
+        <item>행복</item>
+        <item>즐거움</item>
+    </string-array>
+    <string-array name="agelist">
+        <item>10대</item>
+        <item>20대</item>
+        <item>30대</item>
+        <item>40대</item>
+        <item>50대이상</item>
+    </string-array>
+    <string-array name="bademotionlist">
+        <item>무기력</item>
+        <item>자신감없음</item>
+        <item>우울</item>
+        <item>불안정</item>
+        <item>긴장</item>
+        <item>지침</item>
+        <item>혼란스러움</item>
+        <item>화남</item>
+    </string-array>
+</resources>

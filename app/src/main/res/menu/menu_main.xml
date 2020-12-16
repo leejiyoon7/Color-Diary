@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/delete_all"
+        android:orderInCategory="100"
+        android:title="Delete ALL"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        android:title="Log Out"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/sharing"
+        android:orderInCategory="100"
+        android:title="go to Share"
+        app:showAsAction="never" />
+</menu>
